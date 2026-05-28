@@ -3,7 +3,7 @@
 Personal engineering portfolio — Dang Nguyen  
 Mechanical Engineering, Cypress College → UC Transfer 2027
 
-**Live site:** [dangnguyen.github.io](https://dangnguyen5876.github.io)  
+**Live site:** [dangnguyen5876.github.io](https://dangnguyen5876.github.io)  
 **Status:** Under construction — launching October 2026
 
 ---
@@ -19,9 +19,9 @@ control systems.
 
 | Project | Domain | Status |
 |---|---|---|
-| [Iris Diaphragm Mechanism](https://github.com/dangnguyen/iris-diaphragm-cad) | CAD — Fusion 360 | In progress |
-| [PID Motor Speed Controller](https://github.com/dangnguyen/pid-motor-controller) | Embedded Control — Arduino | In progress |
-| [Pressure Vessel FEA](https://github.com/dangnguyen/pressure-vessel-fea) | FEA — Fusion 360 / SimScale | In progress |
+| [Iris Diaphragm Mechanism](https://github.com/dangnguyen5876/iris-diaphragm-cad) | CAD — Fusion 360 | In progress |
+| [PID Motor Speed Controller](https://github.com/dangnguyen5876/pid-motor-controller) | Embedded Control — Arduino | In progress |
+| [Pressure Vessel FEA](https://github.com/dangnguyen5876/pressure-vessel-fea) | FEA — Fusion 360 / SimScale | In progress |
 | Calquetra | Full-stack AI web app | In progress |
 
 ## Resume
