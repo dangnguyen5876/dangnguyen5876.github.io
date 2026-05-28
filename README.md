@@ -1,4 +1,4 @@
-# dangnguyen.github.io
+# dangnguyen5876.github.io
 
 Personal engineering portfolio — Dang Nguyen  
 Mechanical Engineering, Cypress College → UC Transfer 2027
